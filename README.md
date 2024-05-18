@@ -11,7 +11,7 @@ Live website [Click here](https://unique-resume.vercel.app/)
 #### Code link
 
 
-client-side [Click here]https://github.com/Mostafizur-Pro/unique_resume_client.git)
+client-side [Click here](https://github.com/Mostafizur-Pro/unique_resume_client.git)
 <!-- server-side [Click here]() -->
 server-side [Click here](https://github.com/Mostafizur-Pro/unique_resume_server.git)
 #### Team Code link
