@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": "Nurul Islam",
+    "designation": "Full Stack Developer",
+    "teamPosition": "Team Leader",
+    "image": "https://i.ibb.co/G0zwpLk/Nurul-profile-106kb.jpg",
+    "mobile": "01575052052",
+    "gitLink": "https://github.com/nurulcse7",
+    "linkedin": "https://www.linkedin.com/in/nurulbd75/",
+    "portfolio": "https://nurul-com.web.app/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "TailwindCSS",
+      "JavaScript",
+      "React",
+      "Redux",
+      "NodeJS",
+      "MongoDB",
+      "Firebase",
+      "GitHub",
+      "Payment Gateway"
+    ],
+    "projects": [
+      {
+        "name": "Unique Resume - Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/0tRYFX3/Unique-Resume.png"
+      },
+      {
+        "name": "Resale Furniture - Buy and sell your furniture",
+        "link": "https://resale-furniture-bd-com.web.app/",
+        "img": "https://i.ibb.co/tLRfWSG/portfolio1.jpg"
+      },
+      {
+        "name": "Dental Care - Take a service with time slot",
+        "link": "https://dental-care-com.web.app/",
+        "img": "https://i.ibb.co/1M0v9k6/portfolio2.jpg"
+      },
+      {
+        "name": "Motor Mechanic - Take a service daily",
+        "link": "https://motor-mechanic-com.web.app/",
+        "img": "https://i.ibb.co/98GCVqf/portfolio3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Md Rabby Sikder",
+    "designation": "MERN Stack Developer",
+    "teamPosition": "Team Member",
+    "image": "https://i.ibb.co/xXT8hhy/profile.jpg?fbclid=IwAR1VeRI9aASxecjRDqJ14lo0JuCQEPNkg3k7LZ-I_mav5iufZKsdgM_i9M0",
+    "mobile": "01712121212",
+    "gitLink": "github.com",
+    "linkedin": "linkedin.com",
+    "portfolio": "www.portfolio.com",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React",
+      "JavaScript",
+      "NodeJS",
+      "MongoDB",
+      "Firebase",
+      "GitHub"
+    ],
+    "projects": [
+      {
+        "name": "Unique Resume - Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/zxT5yt6/Unique-Resume.png"
+      },
+      {
+        "name": "Unique Resume - Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/zxT5yt6/Unique-Resume.png"
+      },
+      {
+        "name": "Unique Resume - Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/zxT5yt6/Unique-Resume.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Shohag Roy",
+    "designation": "MERN Stack Developer",
+    "teamPosition": "Team Member",
+    "image": "https://i.ibb.co/CnxsZjp/286008477-1135356060359745-4201379937679837964-n.jpg",
+    "mobile": "+8801760567555",
+    "gitLink": "https://github.com/shohagroy",
+    "linkedin": "https://www.linkedin.com/in/shohag-roy-850a82236/",
+    "portfolio": "https://portfolio-of-shohag-roy.web.app/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React",
+      "JavaScript",
+      "NodeJS",
+      "ExpressJS",
+      "Bootstrap",
+      "TailwindCSS",
+      "MongoDB",
+      "Firebase",
+      "GitHub",
+      "Figma"
+    ],
+    "projects": [
+      {
+        "name": "Mobile Mart – recondition mobile buy & sale website.",
+        "link": "https://mobile-mart-19b63.web.app/",
+        "img": "https://i.ibb.co/cg7Rdr1/1.png"
+      },
+      {
+        "name": "Travel Point Holiday - Travel Service Website",
+        "link": "https://travel-point-holiday.web.app/",
+        "img": "https://i.ibb.co/N7VCwr6/1.png"
+      },
+      {
+        "name": "Ghoori Learning– Online Course Platform Website",
+        "link": "https://ghoori-learning-course.web.app/",
+        "img": "https://i.ibb.co/M26X3W7/1.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mostafizur Rahman",
+    "designation": "MERN Stack Developer",
+    "teamPosition": "Team Member",
+    "image": "https://i.ibb.co/tBstMt5/Mostafizur.jpg",
+    "mobile": "01950165017",
+    "gitLink": "https://github.com/Mostafizur-Pro",
+    "linkedin": "https://www.linkedin.com/in/mostafizur-pro/",
+    "portfolio": "https://mostafizur-rahman-d2b32.web.app/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "NodeJS",
+      "MongoDB",
+      "Firebase",
+      "GitHub",
+      "Redux"
+    ],
+    "projects": [
+      {
+        "name": "Unique Resume",
+        "title": "Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/wBHZFJt/unique-resume.png"
+      },
+      {
+        "name": "Computer Zone ",
+        "title": "Second-hand Product Buy & Sell",
+        "link": "https://computer-zone-a3f6f.web.app/",
+        "img": "https://i.ibb.co/gtXH3s7/computer-zone.png"
+      },
+      {
+        "name": "TravelGuru",
+        "title": "Amazing adventure trips",
+        "link": "https://travelguru-a5553.web.app/",
+        "img": "https://i.ibb.co/1mwhMvd/Travel-Guru.png"
+      },
+      {
+        "name": "The Learn",
+        "title": "Online Programming Courses",
+        "link": "https://the-learn-db700.web.app",
+        "img": "https://i.ibb.co/N3JQv0p/The-Learn.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Abdur Rahman",
+    "designation": "MERN Stack Devoloper",
+    "teamPosition": "Team Leader",
+    "image": "https://i.ibb.co/s35TZdS/IMG20220224181013-removebg-preview.png",
+    "mobile": "01712121212",
+    "gitLink": "https://github.com/ariyanabdullah",
+    "linkedin": "https://www.linkedin.com/in/abdurrahmanjr/",
+    "portfolio": "www.portfolio.com",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React",
+      "JavaScript",
+      "NodeJS",
+      "MongoDB",
+      "Firebase",
+      "GitHub",
+      "ExpressJS"
+      
+    ],
+    "projects": [
+      {
+        "name": "Unique Resume - Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/zxT5yt6/Unique-Resume.png"
+      },
+      {
+        "name": "Unique Resume - Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/zxT5yt6/Unique-Resume.png"
+      },
+      {
+        "name": "Unique Resume - Create Your Resume Easily",
+        "link": "https://unique-resume.vercel.app/",
+        "img": "https://i.ibb.co/zxT5yt6/Unique-Resume.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Abdur Sobur",
+    "designation": "He is left from the team for personal issue",
+    "teamPosition": "Team Member",
+    "image": "https://i.ibb.co/Kr1cKyS/abdur-shobur.jpg",
+    "mobile": "",
+    "gitLink": "",
+    "linkedin": "",
+    "portfolio": "",
+    "skills": [
+      
+    ],
+    "projects": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ]
+  }
+]
